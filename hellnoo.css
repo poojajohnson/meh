@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(193, 193, 254);
+
+}
+.navigation ul{
+    list-style-type: none;
+    background-color:beige;
+    padding:0px;
+    margin:0px;
+    overflow:hidden;
+}
+.navigation a{
+    color:olive;
+    padding: 20px;
+    margin: 10px;
+    display:block;
+    text-align:center;
+
+}
+.navigation a:hover{
+background-color:rgb(251, 211, 211);
+}
+.navigation li{
+    float:left;
+}
